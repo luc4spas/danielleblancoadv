@@ -1,0 +1,43 @@
+# Site institucional — Dra. Danielle Blanco | Advocacia Estratégica
+
+## Estrutura
+- `index.html`: página inicial
+- `sobre.html`: perfil profissional
+- `direito-bancario.html`
+- `direito-do-consumidor.html`
+- `direito-imobiliario.html`
+- `direito-patrimonial.html`
+- `familia-e-sucessoes.html`
+- `artigos.html`: pautas editoriais iniciais (não são artigos publicados)
+- `contato.html`
+- `privacidade.html`: modelo que exige revisão antes da publicação
+- `assets/`: logo, fotografia, CSS e JavaScript
+
+## Como editar
+1. Abra os arquivos `.html` em um editor como VS Code.
+2. Troque os textos e dados que desejar.
+3. Substitua `assets/danielle-blanco-escritorio.jpg` por outras fotos mantendo o mesmo nome, se quiser preservar os caminhos.
+4. Substitua o domínio `https://www.seudominio.com.br/` em todas as páginas pelo domínio definitivo.
+5. Revise o status da inscrição OAB: as informações recebidas mencionam OAB 245.784/RJ e também transferência da OAB/AM. Confirme o registro ativo antes de publicar.
+6. Confirme os dados acadêmicos, a situação atual do mestrado e os títulos/certificados antes de divulgar.
+7. Revise a Política de Privacidade conforme os serviços e ferramentas realmente instalados.
+8. Faça a revisão jurídica de todo o conteúdo antes de publicar.
+
+## Visualizar localmente
+Basta abrir `index.html` no navegador. Para melhor simulação de hospedagem, use a extensão Live Server do VS Code.
+
+## SEO antes de publicar
+- Defina o domínio definitivo e atualize as URLs canônicas.
+- Crie e envie o sitemap.xml no Google Search Console.
+- Configure Google Analytics 4 apenas se desejado, com os avisos e consentimentos aplicáveis.
+- Configure endereço, telefone, horários e categorias do Perfil da Empresa no Google de acordo com as regras do Google.
+- Não crie páginas artificiais para cidades onde o escritório não tenha presença real.
+- Crie artigos originais, revisados e assinados pela advogada; as pautas da página Artigos ainda não são conteúdo publicado.
+- Otimize imagens em WebP e mantenha texto alternativo descritivo.
+- Valide dados estruturados e Core Web Vitals após hospedagem.
+
+## Observações
+- A identidade visual usa marfim, dourado e grafite, com animações leves e respeito a `prefers-reduced-motion`.
+- As fontes externas são carregadas do Google Fonts; em caso de indisponibilidade, há fontes de fallback.
+- O botão de contato abre o WhatsApp informado: +55 22 99609-9400.
+- O texto não promete resultados nem substitui consulta jurídica individualizada.
